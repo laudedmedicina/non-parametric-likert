@@ -20,8 +20,9 @@ This project analyzes student attitudes toward research and perceived barriers u
 
 ```r
 source("R/01_data_cleaning.R")
-source("R/02_analysis.R")
-source("R/03_visualization.R")
+source("R/02_data_validation.R")
+source("R/03_analysis.R")
+source("R/04_visualization.R")
 ```
 
 ## Outputs
